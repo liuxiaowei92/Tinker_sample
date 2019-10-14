@@ -1,0 +1,3 @@
+com/study/tinker_sample/MainActivity.class
+com/study/tinker_sample/BaseActivity.class
+com/study/tinker_sample/BaseApplication.class
